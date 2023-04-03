@@ -1,11 +1,13 @@
 title: Daniel Barkowski # your name (or website title) here
 logo: "/images/Miro-min.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  <br>
+  I am an engineering scientist specialized in fluid dynamics, simulation, numerics and data science. My passions are data analysis, coding and visualization of data. I have a strong background in mathematics, physics, and fluid dynamics. During my studies, my work at the university and during a data science bootcamp I have built up a large repertoire of data analysis and data science methods that I would like to apply in my future job.
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/daniel-barkowski/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/daniel-barkowski/">View my LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+
+colors:
+  crimson: '#900C3F'
