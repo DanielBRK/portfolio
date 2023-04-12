@@ -6,7 +6,7 @@
 
 During the project, weather data and sky images were downloaded from a public weather website and processed. The data was used to optimize a pretrained convolutional neural network to detect rain clouds in the images with 90% accuracy. The model was then deployed in a cloud service. A user interface was developed that allows users to make predictions for their own snapshots of the sky.
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/GoogleCloud-white?logo=googlecloud)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#) [![](https://img.shields.io/badge/numpy-white?logo=numpy)](#) [![](https://img.shields.io/badge/Google-Cloud-white?logo=googlecloud)](#) [![](https://img.shields.io/badge/streamlit-white?logo=streamlit)](#) [![](https://img.shields.io/badge/tensorflow-white?logo=tensorflow)](#) [![](https://img.shields.io/badge/matplotlib?logo=matplotlib)](#) [![](https://img.shields.io/badge/uvicorn-white?logo=uvicorn)](#) [![](https://img.shields.io/badge/keras-white?logo=keras)](#)
 
 [View code on GitHub](https://github.com/DanielBRK/classification-of-rain-clouds)
 
