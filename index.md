@@ -2,13 +2,13 @@
 
 ---
 
-### Deep NLP for hate speech detection
+### Using a convolutional neural network to detect rain clouds on sky images 
 
-Hate speech detection is the automated task of determining whether a piece of text contains hateful content. In this project, I built a classifier using PyTorch to fine-tune a BERT model.
+During the project, weather data and sky images were downloaded from a public weather website and processed. The data was used to optimize a pretrained convolutional neural network to detect rain clouds in the images with 90% accuracy. The model was then deployed in a cloud service. A user interface was developed that allows users to make predictions for their own snapshots of the sky.
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/GoogleCloud-white?logo=googlecloud)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
 
-[View code on Colab](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)
+[View code on GitHub](https://github.com/DanielBRK/classification-of-rain-clouds)
 
 ---
 
