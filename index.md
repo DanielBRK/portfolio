@@ -24,6 +24,16 @@ In this small project, a Kmeans algorithm was used to group songs from a public 
 
 ---
 
+### Prediction of letter sequences for given text passages using a simple recurrent neural network model
+
+An IMDB review dataset is used to train a recurrent neural network to predict letters, words and text passages. The dataset is prepared by extracting randomized text samples from the reviews. The samples are then tokenized and used to train the model. With the help of test data, the model is evaluated and compared to a baseline case.
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Sklearn-white?logo=scikit-learn)](#)
+
+[View code on GitHub](https://colab.research.google.com/drive/1bFh-QMgE8IhfH_ox2cDthyS6Ie5DKoXG)
+
+---
+
 ### Implementing a custom data collection pipeline using Scrapy and MongoDB
 The web hosts vast quantities of data useful for research. In this project, I built a custom data collection pipeline using the Python library `scrapy` and a MongoDB cluster.
 
